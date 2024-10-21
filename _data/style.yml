@@ -6,3 +6,7 @@ highlight: "#1f365c"
 #Image Customization
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
+
+fonts:
+  - name: "Roboto"
+    for: "heading
