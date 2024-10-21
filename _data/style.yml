@@ -13,4 +13,6 @@ contact-image: "../img/map-image.png"
 
 fonts:
   - name: "Roboto"
+    for: "script"
+  - name: "Roboto"
     for: "heading"
