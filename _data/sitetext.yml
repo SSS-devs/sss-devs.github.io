@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to Smart & Secure Solutions
+    text: Meet the demands of today’s customer with our services and brands.
     button: Tell Me More
     buttonlink: "#services"
 
