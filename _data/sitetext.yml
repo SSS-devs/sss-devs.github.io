@@ -17,18 +17,28 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Services & Products"
+    text: "Our Services"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "SMS Studio a SMS Content"
+        desc: " Do you have a great idea for your business? Want to promote something? Or are you simply looking for a way to engage with your customers? Our SMS Studio service might just be what youa’re looking for. Sign up today, get an account and start building your own SMS promotions. Whether it be a simple text reply on a keyword, a lottery promotion or something completely custom we provide you with a short code and the support you need, contact us and leta’s get your SMS promotions rolling. With instant reporting and monitoring youa’re all ways in the know and in control. "
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "KeV.Store a' Online marketplace"
+        desc: " Want to join the digital marketplace or grow your own online business, but don’t have a lot of time and money to invest in setting up a web shop? 
+                Then KeV is just what you need! 
+                Sign up for a merchant account and you can start selling your products and services today. 
+                Growing your online business and earning money from the comfort of your home. 
+                No more dealing with the overhead costs of traditional businesses: 
+                - no physical location
+                - no personnel 
+                - no closing time 
+                Already have a traditional brick & mortar store? No problem, get a KeV merchant account and add an extra sales channel to your business! With an uptime of 99.9% we make sure your business runs 24 x 7."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "ICT Consultancy"
+        desc: "We provide consultancy services in the following areas:
+               - Cyber Security
+               - ICT management"
         icon: fab fa-markdown
 
   portfolio:
