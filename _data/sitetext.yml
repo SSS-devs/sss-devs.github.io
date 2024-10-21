@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "SMART SECURE SOLUTIONS"
+    body: " We’re based out of Paramaribo, Suriname and formed the company with the simple purpose to fill a specific void in the market and deliver value to our customers. We believe that we can give any business the competitive edge in today’s fast-paced marketplace. Our strengths are derived from our skillful team with experience in telecom, networking and the field of fin-tech. We have established strategic partnerships with suppliers and professional associates to provide quality services. Smart Secure Solutions, formerly known as Privacy N.V., has focused on building the expertise required to professionally deliver, install and service a complete working communication system and/or networking solution for your business since 2013."
     section: about
 
   clients:
