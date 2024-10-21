@@ -85,7 +85,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Send us a message or call us at +597 881 4400"
+    text: "Send us a message or call us at +597 46 3311"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
