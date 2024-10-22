@@ -15,7 +15,7 @@
 remote_theme: sss-devs/sss-layout
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Smart & Secure Solutions
 email      : info@smartsecure.solutions #this is also the email contact forms will go to
