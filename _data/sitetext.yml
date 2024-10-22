@@ -101,9 +101,9 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     contact:
-      - label: "Address:"
+      - label: "Address"
         value: "Dr Ir. H.S. Adhin St, Paramaribo"
-      - label: "Business hours:"
+      - label: "Business hours"
         value: "Mon - Fri: 9AM - 5PM"
       - label: "Phone number"
         value: "+597 46 3311"
