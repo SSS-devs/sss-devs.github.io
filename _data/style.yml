@@ -1,7 +1,7 @@
 #Color Customization
-highlight: "#ffb566"
+highlight: "#1f365c"
 navbar-color: "#fff"
-navbar-text-color: "#1f365c"
+navbar-text-color: "#212529"
 navbar-text-color-transparent: "#fff"
 navbar-toggler-text-color: "#fff"
 masthead-text-color: "#fff"
