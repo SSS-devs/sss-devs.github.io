@@ -1,5 +1,6 @@
 #Color Customization
 highlight: "#1f365c"
+secondary: "#ffb566"
 navbar-color: "#fff"
 navbar-text-color: "#212529"
 navbar-text-color-transparent: "#fff"
