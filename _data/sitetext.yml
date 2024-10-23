@@ -60,10 +60,10 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Services & Products"
+    text: "Our Services"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Page"
   
   clients:
     section: clients
