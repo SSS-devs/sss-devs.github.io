@@ -2,7 +2,7 @@
 highlight: "#1f365c"
 secondary: "#ffb566"
 navbar-color: "#fff"
-navbar-text-color: "#212529"
+navbar-text-color: "#1f365c"
 navbar-text-color-transparent: "#fff"
 navbar-toggler-text-color: "#fff"
 masthead-text-color: "#fff"

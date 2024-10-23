@@ -14,8 +14,6 @@ en: &DEFAULT_EN
     - title: "About Us"
       section: about
     - title: "Services"
-      section: services
-    - title: "Portfolio"
       section: portfolio
     - title: "Contact"
       section: contact

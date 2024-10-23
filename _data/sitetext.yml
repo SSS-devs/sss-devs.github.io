@@ -19,49 +19,39 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "SMART & SECURE SOLUTIONS"
-    body: " We’re based out of Paramaribo, Suriname and formed the company with the simple purpose to fill a specific void in the market and deliver value to our customers. We believe that we can give any business the competitive edge in today’s fast-paced marketplace. Our strengths are derived from our skillful team with experience in telecom, networking and the field of fin-tech. We have established strategic partnerships with suppliers and professional associates to provide quality services. Smart Secure Solutions, formerly known as Privacy N.V., has focused on building the expertise required to professionally deliver, install and service a complete working communication system and/or networking solution for your business since 2013."
+    body: |
+          We’re based out of Paramaribo, Suriname and formed the company with the simple purpose to fill a specific void in the market and deliver value to our customers.
+
+          We believe that we can give any business the competitive edge in today’s fast-paced marketplace. Our strengths are derived from our skillful team with experience in telecom, networking and the field of fin-tech. We have established strategic partnerships with suppliers and professional associates to provide quality services.
+
+          Smart Secure Solutions, formerly known as Privacy N.V., has focused on building the expertise required to professionally deliver, install and service a complete working communication system and/or networking solution for your business since 2013."
     section: about
 
   services:
-    title: "Services & Products"
-    text: "Our Services"
+    title: "Why work with us"
+    text: "4 Reasons to choose us"
     section: services
     list:
-      - title: "SMS Studio a SMS Content"
+      - title: "Innovative Solutions"
         desc: |
-              Do you have a great idea for your business? Want to promote something? Or are you simply looking for a way to engage with your customers?
-              
-              Our SMS Studio service might just be what you’re looking for. Sign up today, get an account and start building your own SMS promotions. 
-              
-              Whether it be a simple text reply on a keyword, a lottery promotion or something completely custom we provide you with a short code and the support you need, contact us and leta’s get your SMS promotions rolling. With instant reporting and monitoring youa’re all ways in the know and in control.
-        image: assets/img/portfolio/01-full.jpg
-      - title: "KeV.Store a' Online marketplace"
+              As an innovative solutions integrator we provide solutions for real world ICT challenges and deliver seamless support across the entire value chain. Our solutions provide end-to-end coverage for your networks, systems, applications, and business processes.
+        icon: fas fa-briefcase
+      - title: "Digital Payment Solutions"
         desc: |
-              Want to join the digital marketplace or grow your own online business, but don’t have a lot of time and money to invest in setting up a web shop? 
-              
-              Then KeV is just what you need! 
-                
-              Sign up for a merchant account and you can start selling your products and services today. 
-                
-              Growing your online business and earning money from the comfort of your home. 
-                
-              No more dealing with the overhead costs of traditional businesses: 
-              - no physical location
-              - no personnel 
-              - no closing time
-               
-              Already have a traditional brick & mortar store? No problem, get a KeV merchant account and add an extra sales channel to your business! With an uptime of 99.9% we make sure your business runs 24 x 7.
-        icon: fas fa-laptop
-      - title: "ICT Consultancy"
+              We pride ourselves in having engineered the first online payment gateway for Suriname and contributing to the advancement of digital payment solutions for the local market.
+        icon: fas fa-user-tie
+      - title: "Electronic Transaction Solutions"
         desc: |
-              We provide consultancy services in the following areas:
-              - Cyber Security
-              - ICT management
-        icon: fab fa-markdown
+              Part of our focus is engineering electronic transaction solutions and as such we engineered and implemented a complete **EFT POS** solution for one of the local banks in Suriname.
+        icon: fas fa-cogs
+      - title: "Mobile Top Up"
+        desc: |
+              With years of experience in electronic transaction solutions, we are happy to provide **Mobile Top Up** at home through the **KeV** marketplace.
+        icon: fas fa-comments
 
   portfolio:
     title: "Services & Products"
-    text: "Our Services"
+    text: "Our Services & Products"
     section: portfolio
     closebutton: "Close Page"
   
