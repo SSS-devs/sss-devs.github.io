@@ -66,6 +66,7 @@ en: &DEFAULT_EN
   
   clients:
     title: "Portfolio"
+    desc: "Satisfied Customers"
     section: clients
     max-height: 200px
     horizontal-scrolling: "" #"yes/no"
