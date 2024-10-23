@@ -2,6 +2,10 @@
 source "https://rubygems.org"
 
 gem "jekyll-remote-theme"
+gem "base64"
+gem "logger"
+gem "csv"
+gem "ostruct"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
