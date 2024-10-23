@@ -20,3 +20,5 @@ fonts:
     for: "script"
   - name: "Roboto"
     for: "heading"
+  - name: "Roboto"
+    for: "serif"
