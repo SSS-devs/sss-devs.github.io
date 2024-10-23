@@ -14,7 +14,16 @@ en: &DEFAULT_EN
     title: Welcome to Smart & Secure Solutions
     text: Delivering enterprise-grade solutions
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
+    carousel:
+      - text: We provide services across businesses of all shapes and sizes
+        button: Tell me More
+        buttonlink: "#portfolio"
+        bgimage: bg-network
+      - text: Custom made payment solutions
+        button: Tell me More
+        buttonlink: "#portfolio"
+        bgimage: bg-enterprise
 
   about:
     title: "About Us"
