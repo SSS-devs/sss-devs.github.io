@@ -65,22 +65,29 @@ en: &DEFAULT_EN
     closebutton: "Close Page"
   
   clients:
+    title: "Portfolio"
     section: clients
     max-height: 200px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Hakrinbank"
         logo: assets/img/clients/logo-Hakrinbank.png
+        project: "I-Debit (HOP)"
       - title: "Self Reliance"
         logo: assets/img/clients/logo-selfreliance.png
+        project: "SMS Content Service"
       - title: "Staatsolie"
         logo: assets/img/clients/logo-staatsolie.png
+        project: "ICT Project Management/Consultancy"
       - title: "Tjon a Hung"
         logo: assets/img/clients/logo-tah.png
+        project: "Consultancy/Technical Support"
       - title: "VCB Bank"
         logo: assets/img/clients/logo-vcb.png
+        project: "PAX EFT-POS Solution"
       - title: "Parbo Bier"
         logo: assets/img/clients/parbo-logo.png
+        project: "SMS Content Service"
 
   contact:
     title: "Contact Us"

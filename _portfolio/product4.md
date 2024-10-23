@@ -14,9 +14,3 @@ i-Debit, our online payment solution is engineered with security, anti-fraud and
 Want to see i-Debit in action?
 
 The first online payment service in Suriname.
-
-{:.list-inline}
-- Date: June 2018
-- Client: Hakrinbank
-- Category: Payment Gateway
-

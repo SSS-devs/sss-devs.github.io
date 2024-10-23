@@ -20,9 +20,3 @@ We provide the following PAX models:
 - S900 – Mobile model (3G/GPRS, Contactless & NFC)
 
 All terminals are PCI certified and support Contactless, Chip & Magstripe.
-
-
-{:.list-inline}
-- Client: VCB Bank
-- Category: POS Terminals
-
