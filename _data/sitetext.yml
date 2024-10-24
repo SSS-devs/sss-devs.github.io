@@ -62,7 +62,7 @@ en: &DEFAULT_EN
     title: "Services & Products"
     text: "Our Services & Products"
     section: portfolio
-    closebutton: "Close Page"
+    closebutton: "Close"
   
   clients:
     title: "Portfolio"
