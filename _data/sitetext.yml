@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
     bgimage: bg-connectivity
     carousel:
-      - text: We provide services across businesses of all shapes and sizes
+      - text: Providing services across businesses of all shapes and sizes
         button: Tell me More
         buttonlink: "#portfolio"
         bgimage: bg-network
@@ -67,7 +67,7 @@ en: &DEFAULT_EN
   
   clients:
     title: "Portfolio"
-    desc: "Satisfied Customers"
+    text: "Our Satisfied Customers"
     section: clients
     max-height: 200px
     horizontal-scrolling: "" #"yes/no"
