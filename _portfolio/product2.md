@@ -1,11 +1,11 @@
 ---
-title: KeV.Store a' Online marketplace
+title: KeV.Store a Online marketplace
 subtitle: Koop & Verkoop
 image: assets/img/portfolio/kev-365x220.png
 alt: Keep Exploring
 
 caption:
-  title: KeV.Store a' Online marketplace
+  title: KeV.Store a Online marketplace
   subtitle: e-Commerce
   thumbnail: assets/img/portfolio/kev-365x220.png
 ---
