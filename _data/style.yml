@@ -8,6 +8,8 @@ navbar-toggler-text-color: "#fff"
 masthead-text-color: "#fff"
 transition-duration: "5s"
 transition-type: "linear"
+text-fade-transition-duration: "1s"
+text-fade-transition-type: "ease-in"
 #white: "#FF0000"
 #black: "#000"
 
