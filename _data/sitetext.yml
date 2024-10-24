@@ -15,6 +15,7 @@ en: &DEFAULT_EN
     text: Delivering enterprise-grade solutions
     button: Tell Me More
     buttonlink: "#portfolio"
+    bgimage: bg-connectivity
     carousel:
       - text: We provide services across businesses of all shapes and sizes
         button: Tell me More

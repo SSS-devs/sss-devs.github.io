@@ -1,6 +1,6 @@
 .bg-enterprise {
   background-color: #1f365c;
-  background-image: linear-gradient(#343a4090, #343a4090), url("../img/enterprise.jpg");
+  background-image: linear-gradient(#343a4090, #343a4090), url("../img/bg-enterprise.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
