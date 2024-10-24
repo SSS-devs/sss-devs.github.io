@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "Home"
+      section: carousel
     - title: "About Us"
       section: about
     - title: "Services"
