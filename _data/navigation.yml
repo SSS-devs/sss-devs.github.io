@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Home"
-      section: carousel
+      section: page-top
     - title: "About Us"
       section: about
     - title: "Services"

@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Why work with us"
-    text: "4 Reasons to choose us"
+    text: ""
     section: services
     list:
       - title: "Innovative Solutions"
@@ -58,6 +58,14 @@ en: &DEFAULT_EN
         desc: |
               With years of experience in electronic transaction solutions, we are happy to provide **Mobile Top Up** at home through the **KeV** marketplace.
         icon: fas fa-comments
+      - title: "Meet Customer Demands"
+        desc: |
+              Meet the demands of today's customers with our services and brands
+        icon: "fas fa-handshake"
+      - title: "Cyber Security"
+        desc: |
+              Advice on building a secure network infrastructure that inherently detects and blocks invasive software attacks and intruder access
+        icon: "fas fa-lock"
 
   portfolio:
     title: "Services & Products"
