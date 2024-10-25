@@ -21,6 +21,7 @@ title      : Smart & Secure Solutions
 email      : info@smartsecure.solutions #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
+map        : sss-street
 logo:     #optional, defaults to site title
   path: assets/img/SMART-LOGO.png
   height: 100 #height in px, defaults to 52px
