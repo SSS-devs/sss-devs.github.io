@@ -15,16 +15,16 @@ en: &DEFAULT_EN
     text: Delivering enterprise-grade solutions
     button: Tell Me More
     buttonlink: "#portfolio"
-    bgimage: bg-connectivity
+    bgimage: bg-connectivity.jpg
     carousel:
       - text: Providing services across businesses of all shapes and sizes
         button: Tell me More
         buttonlink: "#portfolio"
-        bgimage: bg-network
+        bgimage: bg-network.jpg
       - text: Custom made payment solutions
         button: Tell me More
         buttonlink: "#portfolio"
-        bgimage: bg-enterprise
+        bgimage: bg-enterprise.jpg
 
   about:
     title: "About Us"
