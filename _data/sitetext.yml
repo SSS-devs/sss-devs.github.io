@@ -103,6 +103,14 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: "Send us a message or call us at +597 46 3311"
     section: contact
+    map:
+      server: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+      center:
+        latitude: 5.809320
+        longitude: -55.206474
+      location:
+        latitude: 5.807153
+        longitude: -55.205392
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
