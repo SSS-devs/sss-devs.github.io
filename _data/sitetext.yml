@@ -111,6 +111,10 @@ en: &DEFAULT_EN
       location:
         latitude: 5.807153
         longitude: -55.205392
+      zoom:
+        level: 17
+        control: false
+        doubleclick: false
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
