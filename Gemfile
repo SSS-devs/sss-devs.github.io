@@ -2,8 +2,6 @@
 source "https://rubygems.org"
 
 gem "jekyll-remote-theme"
-gem "jekyll-coffeescript"
-gem 'execjs'
 gem "base64"
 gem "logger"
 gem "csv"
