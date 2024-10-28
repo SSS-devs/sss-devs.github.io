@@ -9,7 +9,7 @@ caption:
   subtitle: Electronic Payment Solution
   thumbnail: assets/img/portfolio/pax-hero-s300-1920x7731-365x220.jpg
 ---
-PAX Technology is the world’s leading provider of secure electronic payment terminal solutions, including Android terminals and MPOS. PAX Technology has manufacturing, research and development facilities in China and produce a full portfolio of payment terminals used by merchants worldwide.
+PAX Technology is the world's leading provider of secure electronic payment terminal solutions, including Android terminals and MPOS. PAX Technology has manufacturing, research and development facilities in China and produce a full portfolio of payment terminals used by merchants worldwide.
 
 We provide the following PAX models:
 

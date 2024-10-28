@@ -9,7 +9,7 @@ caption:
   subtitle: e-Commerce
   thumbnail: assets/img/portfolio/kev-365x220.png
 ---
-Want to join the digital marketplace or grow your own online business, but dona’t have a lot of time and money to invest in setting up a web shop?
+Want to join the digital marketplace or grow your own online business, but don't have a lot of time and money to invest in setting up a web shop?
 
 Then **KeV** is just what you need!
 
