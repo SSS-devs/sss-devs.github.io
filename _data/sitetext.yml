@@ -130,7 +130,7 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     contact:
       - label: "Address"
-        value: "Dr Ir. H.S. Adhin St, Paramaribo"
+        value: "Dr. Ir. H.S. Adhin Street #45, Paramaribo"
       - label: "Business hours"
         value: "Mon - Fri: 9AM - 5PM"
       - label: "Phone number"
