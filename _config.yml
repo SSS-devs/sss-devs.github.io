@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 livereload: true
 
 title      : Smart & Secure Solutions
-email      : info@smartsecure.solutions #this is also the email contact forms will go to
+email      : techtest@smartsecure.solutions #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
 logo:     #optional, defaults to site title
