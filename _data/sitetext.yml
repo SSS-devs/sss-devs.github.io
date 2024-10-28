@@ -101,7 +101,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Send us a message or call us at +597 46 3311"
+    text: "Contact us today and get free first consultation!"
     section: contact
     map:
       server: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
