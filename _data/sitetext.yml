@@ -12,11 +12,11 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Smart & Secure Solutions
-    text: Delivering enterprise-grade solutions
-    button: Tell Me More
-    buttonlink: "#portfolio"
-    bgimage: assets/img/bg-connectivity.jpg
     carousel:
+      - text: Delivering enterprise-grade solutions
+        button: Tell Me More
+        buttonlink: "#portfolio"
+        bgimage: assets/img/bg-connectivity.jpg
       - text: Providing services across businesses of all shapes and sizes
         button: Tell me More
         buttonlink: "#portfolio"
