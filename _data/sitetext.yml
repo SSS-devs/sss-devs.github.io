@@ -113,8 +113,9 @@ en: &DEFAULT_EN
         longitude: -55.205392
       zoom:
         level: 17
-        control: false
+        control: true
         doubleclick: false
+        drag: true
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"
