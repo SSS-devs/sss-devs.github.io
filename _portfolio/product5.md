@@ -1,20 +1,23 @@
 ---
-title: EFT-POS Solutions
+title: EFT-POS Total Solutions
 subtitle: Electronic Funds Transfer Point of Sale Solutions 
 image: assets/img/portfolio/EFTA1-full.jpg
 alt: 
 
 caption:
-  title: EFT-POS Solutions
+  title: All-In-One EFT-POS Solutions
   subtitle:  Electronic Funds Transfer Point of Sale Solutions 
   thumbnail: assets/img/portfolio/EFTA1-365x220.jpg
 ---
 Our All-In-One EFT solution takes care of:
 
-- Terminal management (Terminal vendor PAX)
+- Terminal management
 - Key management
 - Remote key loading
+- Software  adaptation
 - Remote software operations
+- Payment gateway
+- Software adaptation
 
 POS concentrator
 
