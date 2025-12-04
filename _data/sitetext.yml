@@ -80,9 +80,9 @@ en: &DEFAULT_EN
     max-height: 200px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "Hakrinbank"
+      - title: "Godo"
         logo: assets/img/clients/logo-Hakrinbank.png
-        project: "I-Debit (HOP)"
+        project: "All-In-One EFT-POS Solution"
       - title: "Self Reliance"
         logo: assets/img/clients/logo-selfreliance.png
         project: "SMS Content Service"
@@ -94,10 +94,16 @@ en: &DEFAULT_EN
         project: "Consultancy/Technical Support"
       - title: "VCB Bank"
         logo: assets/img/clients/logo-vcb.png
-        project: "PAX EFT-POS Solution"
+        project: "All-In-One EFT-POS Solution"
       - title: "Parbo Bier"
         logo: assets/img/clients/parbo-logo.png
         project: "SMS Content Service"
+      - title: "Stuivers Vereninging"
+        logo: assets/img/clients/parbo-logo.png
+        project: "Nextcloud Service"
+      - title: "BNETS"
+        logo: assets/img/clients/parbo-logo.png
+        project: "All-In-One EFT-POS Solution"
 
   contact:
     title: "Contact Us"
