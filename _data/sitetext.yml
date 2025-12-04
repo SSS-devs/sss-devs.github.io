@@ -81,7 +81,7 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Godo"
-        logo: assets/img/clients/logo-Hakrinbank.png
+        logo: assets/img/clients/logo-godo.png
         project: "All-In-One EFT-POS Solution"
       - title: "Self Reliance"
         logo: assets/img/clients/logo-selfreliance.png
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/parbo-logo.png
         project: "Nextcloud Service"
       - title: "BNETS"
-        logo: assets/img/clients/parbo-logo.png
+        logo: assets/img/clients/logo-bnets.png
         project: "All-In-One EFT-POS Solution"
 
   contact:
