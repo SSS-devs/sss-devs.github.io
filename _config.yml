@@ -19,7 +19,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 livereload: true
 
 title      : Smart & Secure Solutions
-email      : info@smartsecure.solutions #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
 logo:     #optional, defaults to site title
@@ -36,8 +35,7 @@ collections:
 
 markdown: kramdown
 
-# Uncomment following line to use Formspree form ID based URL instead of email based URL
-# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# Uncomment following line to use ReCaptcha
 g_recaptcha_key: "6LdmKyUsAAAAALlePJbRe3TTRR4Ac8MvrDDWci3B"
 
 plugins:
