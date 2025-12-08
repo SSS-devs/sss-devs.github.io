@@ -9,4 +9,8 @@ caption:
   subtitle: Cloud Service
   thumbnail: assets/img/portfolio/nextcloud-365x220.png
 ---
-With an uptime of **99.9%** we make sure your business runs **24 x 7**.
+Our Nextcloud Service offering delivers a fully managed, private, and scalable collaboration platform. Give your organization secure file sharing, real-time communication, and seamless teamwork without vendor lock-in or data leaving your control.
+
+We handle hosting, updates, security, and monitoring, so you can focus on your business. Whether you need file sync, shared calendars, video meetings, or team collaboration tools, Nextcloud provides a flexible, compliant, and privacy-respecting solution tailored to your needs.
+
+Take back control of your data—efficiently, securely, and transparently.
