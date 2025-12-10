@@ -17,6 +17,7 @@ remote_theme: sss-devs/sss-layout
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 livereload: true
+host: 0.0.0.0
 
 title      : Smart & Secure Solutions
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
@@ -35,8 +36,11 @@ collections:
 
 markdown: kramdown
 
+# https://dashboard.emailjs.com/admin/account
+emailjs_publickey: "2s_ARaGGGfu2YCS_7"
 # Uncomment following line to use ReCaptcha
-g_recaptcha_key: "6LdmKyUsAAAAALlePJbRe3TTRR4Ac8MvrDDWci3B"
+# Details: https://www.google.com/recaptcha/admin/create
+#g_recaptcha_key: "6LdmKyUsAAAAALlePJbRe3TTRR4Ac8MvrDDWci3B"
 
 plugins:
   - jekyll-remote-theme
