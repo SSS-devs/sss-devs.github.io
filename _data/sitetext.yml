@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         icon: fas fa-cogs
       - title: "Mobile Top Up"
         desc: |
-              With years of experience in electronic transaction solutions, we are happy to provide **Mobile Top Up** at home through applications.
+              With years of experience in electronic transaction solutions, we are happy to provide **Mobile Top Up** at home through our applications.
         icon: fas fa-comments
       - title: "Meet Customer Demands"
         desc: |
