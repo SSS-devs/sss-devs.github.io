@@ -98,6 +98,9 @@ en: &DEFAULT_EN
       - title: "Parbo Bier"
         logo: assets/img/clients/parbo-logo.png
         project: "SMS Content Service"
+      - title: "Stuivers Vereninging"
+        logo: assets/img/clients/logo-stuivers.png
+        project: "Nextcloud Service"
       - title: "BNETS"
         logo: assets/img/clients/logo-bnets.png
         project: "All-In-One EFT-POS Solution"
