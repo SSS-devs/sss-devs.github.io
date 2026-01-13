@@ -23,7 +23,8 @@ description: "Agency Bootstrap theme converted to a Jekyll theme, plus new featu
 author     : Your Name
 logo:     #optional, defaults to site title
   path: assets/img/SMART-LOGO.png
-  height: 100 #height in px, defaults to 52px
+  height: 100px #defaults to 52px
+  small-height: 50px #height for smaller screens, defaults to 26px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
